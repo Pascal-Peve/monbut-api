@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Packages tiers installes
+    'django',
     'rest_framework',
     'rest_framework_simplejwt',
     'corsheaders',
